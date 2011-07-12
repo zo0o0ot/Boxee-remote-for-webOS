@@ -34,6 +34,5 @@
      "Could not get volume, try restarting boxee." : "Die Lautstärke konnte nicht geladen werden, versuch es nach einem Neustart von Boxee noch einmal.",
      "Files" : "Dateien",
      "Suspend boxee" : "Boxee ausschalten",
-     "Nothing is playing" : "Es wird gerade nichts abgespielt",
      "Now playing": "Zurzeit spielt:"
  }
